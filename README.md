@@ -1,2 +1,2 @@
-# zeon
-Im Programmer
+# jeons
+Im Human
